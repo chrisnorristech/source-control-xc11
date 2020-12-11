@@ -22,6 +22,7 @@ class ViewController: NSViewController {
      - returns: the sum of num1 and num2.
      */
     func addNumber(num1: Int, num2: Int) -> Int {
+        print("thing 2")
         return num1 + num2
     }
     
